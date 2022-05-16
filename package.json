@@ -1,0 +1,27 @@
+{
+  "name": "funny-billards",
+  "version": "0.1.5",
+  "author": "Benz Leung",
+  "keywords": ["cocos2d-js", "web game", "web audio api"],
+  "description": "一个使用cocos2d-js编写的网页版桌球游戏",
+  "homepage": "https://github.com/BenzLeung/funny-billards",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bump": "^2.7.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-processhtml": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-requirejs-optimize": "^1.2.0",
+    "gulp-uglify": "^2.0.1",
+    "imagemin-pngcrush": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenzLeung/funny-billards.git"
+  },
+  "license": "MIT"
+}
